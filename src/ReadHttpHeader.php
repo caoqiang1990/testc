@@ -5,7 +5,7 @@
  * Date: 2020/9/8
  * Time: 下午1:50
  */
-namespace aimertest\components;
+namespace aimertest;
 use yii\base\Component;
 
 class ReadHttpHeader extends Component

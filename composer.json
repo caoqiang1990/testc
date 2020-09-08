@@ -7,5 +7,10 @@
             "email": "351266168@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "aimertest\\": "src/"
+    }
+}
 }
