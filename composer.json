@@ -1,0 +1,11 @@
+{
+    "name": "aimer/testc",
+    "description": "this is test components",
+    "authors": [
+        {
+            "name": "caoqiang1990",
+            "email": "351266168@qq.com"
+        }
+    ],
+    "require": {}
+}
